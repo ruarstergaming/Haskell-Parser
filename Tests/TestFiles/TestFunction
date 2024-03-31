@@ -1,0 +1,4 @@
+funcAdd = args(a,b){number = a+b; print(number);}
+funcAdd args(1,2)
+x = args(a,b,c){printa;printb;printc}
+x args("Hello World","2", "3")

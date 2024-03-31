@@ -1,0 +1,5 @@
+y = 3
+print "enter a number"
+z = input
+x = y + toInt(z)
+print(z + " + 3 = " + toString(x))
